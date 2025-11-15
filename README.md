@@ -46,7 +46,7 @@
 - 🔵 Yarn
 ## 🔧 Контроль версий и деплой
 - 🧱 Git
-- 🐙 GitHub
+- 🐙 GitHub, Netlify, Vercel
 - 🤖 GitHub Actions (CI/CD)
 
 

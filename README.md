@@ -47,7 +47,7 @@
 ## 🔧 Контроль версий и деплой
 - 🧱 Git
 - 🐙 GitHub
-- 🤖 GitHub Actions (CI/CD
+- 🤖 GitHub Actions (CI/CD)
 
 
 ---

@@ -15,7 +15,3 @@
 </p>
 
 ---
-
-![My Tech Stack](assets/portfolio.jpg)
-
----

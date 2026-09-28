@@ -9,7 +9,7 @@
   <a href="https://github.com/frotrest?tab=repositories">
     <img src="https://img.shields.io/github/followers/frotrest?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://frotrest.github.io/frotrest-portfolio/](https://frotrest.github.io/Portfolio/">
+  <a href="https://frotrest.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-yellow?logo=githubpages" alt="Portfolio">
   </a>
 </p>

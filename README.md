@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hello, I'm Frotrest</h1>
+
 <p align="center">
   <strong>Frontend Developer</strong> • Designer • Editor
 </p>
-
-
 
 <p align="center">
   <a href="https://github.com/frotrest?tab=repositories">
@@ -15,8 +14,8 @@
 </p>
 
 ---
-<h3 align="center">🛠️ The technologies which I possess</h3>
 
+<h3 align="center">🛠️ The technologies which I possess</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -44,7 +43,6 @@
   <img src="https://img.shields.io/badge/Parcel-E9A23B?style=for-the-badge&logo=parcel&logoColor=white" alt="Parcel">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 <p align="center">
@@ -54,3 +52,4 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
+

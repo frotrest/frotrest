@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Parcel-E9A23B?style=for-the-badge&logo=parcel&logoColor=white" alt="Parcel">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 <p align="center">
